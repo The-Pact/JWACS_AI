@@ -16,7 +16,7 @@
 ### Cloning the Repository
 Run the following command to clone the repository:
 ```
-git clone https://github.com/xtekky/chatgpt-clone.git
+git clone https://github.com/The-Pact/JWACS-AI.git
 ```
 
 ### Setting up a Virtual Environment
